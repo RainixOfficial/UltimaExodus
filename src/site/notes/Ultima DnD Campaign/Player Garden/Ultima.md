@@ -3,7 +3,7 @@
 ---
 
 
-# `[!NOTE]-` Races
+# > `[!]-` Races
 - [[Ultima DnD Campaign/Races/Human\|Human]]
 - [[Ultima DnD Campaign/Races/Grippli\|Grippli]]
 - [[Ultima DnD Campaign/Races/Florien\|Florien]]
@@ -15,3 +15,4 @@
 - [[Ultima DnD Campaign/PCs/Frobo\|Frobo]]
 - [[Ultima DnD Campaign/PCs/Grove\|Grove]]
 - [[Ultima DnD Campaign/PCs/Ramona\|Ramona]]
+
