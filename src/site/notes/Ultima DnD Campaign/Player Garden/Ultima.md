@@ -3,13 +3,13 @@
 ---
 
 
-# [!Races]-`
+# [!Races]-
 - [[Ultima DnD Campaign/Races/Human\|Human]]
 - [[Ultima DnD Campaign/Races/Grippli\|Grippli]]
 - [[Ultima DnD Campaign/Races/Florien\|Florien]]
 - [[Ultima DnD Campaign/Races/Fury\|Fury]]
 
-# [!Characters]-`
+# [!Characters]-
 - [[Ultima DnD Campaign/PCs/Davin\|Davin]]
 - [[Ultima DnD Campaign/PCs/Lena\|Lena]]
 - [[Ultima DnD Campaign/PCs/Frobo\|Frobo]]
