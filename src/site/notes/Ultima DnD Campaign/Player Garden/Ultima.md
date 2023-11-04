@@ -3,7 +3,7 @@
 ---
 
 
-# [!Races]-
+# `[!NOTE]-` Races
 - [[Ultima DnD Campaign/Races/Human\|Human]]
 - [[Ultima DnD Campaign/Races/Grippli\|Grippli]]
 - [[Ultima DnD Campaign/Races/Florien\|Florien]]
