@@ -15,4 +15,13 @@
 - **Intelligence**: 12
 - **Wisdom**: 10
 - **Charisma**: 10
+
+
+- Strength: -1
+- Dexterity: +2
+- Constitution: 0
+- Intelligence: +1
+- Wisdom: 0
+- Charisma: 0
+- 
 - **Skill**: Lockpicking - Jamie can attempt to pick locks with a proficiency bonus of +2.
