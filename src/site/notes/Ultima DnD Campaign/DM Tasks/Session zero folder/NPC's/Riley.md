@@ -16,4 +16,12 @@
 - **Intelligence**: 14
 - **Wisdom**: 12
 - **Charisma**: 11
+
+- **Strength**: -1
+- **Dexterity**: 0
+- **Constitution**: -1
+- **Intelligence**: +2
+- **Wisdom**: +1
+- **Charisma**: 0
+- 
 - **Skill**: Magic Detection - Riley can cast "Detect Magic" as a ritual (taking 10 minutes) once per day.
