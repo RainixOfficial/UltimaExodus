@@ -18,4 +18,12 @@
 - **Intelligence**: 9
 - **Wisdom**: 10
 - **Charisma**: 10
+
+- **Strength**: +1
+- **Dexterity**: 0
+- **Constitution**: +1
+- **Intelligence**: -1
+- **Wisdom**: 0
+- **Charisma**: 0
+
 - **Skill**: Inspiring Presence - Once per day, Casey can give a creature within 10 feet a +1 bonus to their next ability check or saving throw.
