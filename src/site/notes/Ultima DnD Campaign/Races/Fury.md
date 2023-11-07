@@ -6,7 +6,7 @@
 ## Fury Race 
 
 ### Overview:
-The Furies are a race of primal, simian-like humanoids originating from the [[Ultima DnD Campaign/Locations/Frostfire Highlands\|Frostfire Highlands]]. With an inner fire fueling their abilities, they exhibit unique traits influenced by their environment and tribal affiliations.
+The Furies are a race of primal, simian-like humanoids originating from the [[Ultima DnD Campaign/Locations/FrostFire Highlands/Frostfire Highlands\|Frostfire Highlands]]. With an inner fire fueling their abilities, they exhibit unique traits influenced by their environment and tribal affiliations.
 
 ### Description:
 Furies are a race shaped by the primal forces of their homeland. They have a strong connection to their inner fire, a powerful source of strength and resilience. Their society is tribal, and each tribe has adapted to their unique environment, developing specialized abilities and characteristics. Despite their fierce nature, Furies are capable of forming strong bonds with other races and creatures, making them valuable allies in the harsh wilderness of the Frostfire Highlands.
