@@ -10,9 +10,9 @@
 - [[Ultima DnD Campaign/Races/Fury\|Fury]]
 
 # Characters
-- [[Ultima DnD Campaign/PCs/Davin\|Davin]]
-- [[Ultima DnD Campaign/PCs/Lena\|Lena]]
-- [[Ultima DnD Campaign/PCs/Frobo\|Frobo]]
-- [[Ultima DnD Campaign/PCs/Grove\|Grove]]
-- [[Ultima DnD Campaign/PCs/Ramona\|Ramona]]
+- [[Ultima DnD Campaign/DM Tasks/Session zero folder/NPC's/Jamie\|Jamie]]
+- [[Ultima DnD Campaign/DM Tasks/Session zero folder/NPC's/Alex\|Alex]]
+- [[Ultima DnD Campaign/DM Tasks/Session zero folder/NPC's/Casey\|Casey]]
+- [[Ultima DnD Campaign/DM Tasks/Session zero folder/NPC's/Morgan\|Morgan]]
+- [[Ultima DnD Campaign/DM Tasks/Session zero folder/NPC's/Riley\|Riley]]
 
