@@ -18,4 +18,12 @@
 - **Intelligence**: 12
 - **Wisdom**: 11
 - **Charisma**: 13
+- 
+- **Strength**: -1
+- **Dexterity**: +1
+- **Constitution**: -1
+- **Intelligence**: +1
+- **Wisdom**: 0
+- **Charisma**: +1
+- 
 - **Skill**: Light Creation - Once per day, Alex can create a bright light that lasts for 1 minute.
