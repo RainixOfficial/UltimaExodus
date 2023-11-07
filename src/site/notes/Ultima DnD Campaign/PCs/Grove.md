@@ -38,7 +38,7 @@ He's bookish, polite, and extremely self-conscious. He has a quiet strength and 
 
 #### Entry 1: Day one at Frosthearth
 
-Today was my first day in this chilly castle they call [[Ultima DnD Campaign/Locations/Frosthearth\|Frosthearth]]. It's nothing like home in [[Glaigoth\|Glaigoth]]. The walls are stone cold, and the people, well, they're not much warmer. Father said I'm here for peace, whatever that means. Corrin, the Lord's son, is around my age. I thought maybe we could be friends, but he looked at me like I'm some sort of monster. Lord Frosthearth said I would start training to be a Paladin! It's going to be cool, like the knights of Castle Starfall in all the legends. I hope I can be like them one day even if I'm green.
+Today was my first day in this chilly castle they call [[Ultima DnD Campaign/Locations/FrostFire Highlands/Frosthearth\|Frosthearth]]. It's nothing like home in [[Glaigoth\|Glaigoth]]. The walls are stone cold, and the people, well, they're not much warmer. Father said I'm here for peace, whatever that means. Corrin, the Lord's son, is around my age. I thought maybe we could be friends, but he looked at me like I'm some sort of monster. Lord Frosthearth said I would start training to be a Paladin! It's going to be cool, like the knights of Castle Starfall in all the legends. I hope I can be like them one day even if I'm green.
 
 ---
 
@@ -68,7 +68,7 @@ Today they announced some big tournament that King Auralius is hosting. I guess 
 
 #### Entry 6: Heart-to-Heart and An Unwelcome Visitor
 
-Hector and I met in the library again, we talked about Glaigoth. It felt good to talk to someone who actually listens. Suddenly, Corrin burst in, hurling insults and disrupting the peace calling us lovebirds. They actually had to kick him out after he slammed the table though. The nerve of that guy! Then Hector asked what I'd request from the king. Honestly I don't want anything, I'd just like to see the [[Ultima DnD Campaign/Locations/Starfall Castle/Eldritch Library\|Eldritch Library]] at the castle, I've heard it's so amazing. He told me to chase my dreams... fat chance, I mustered up the courage to ask Lord Frosthearth if I could attend the tournament. Got shot down faster than a snowball in summer. It was weird though, when I asked Hector what he would request from the King, he just said, "something that could make a real difference". How can he be so mysterious and so sincere at the same time? Ugh. 
+Hector and I met in the library again, we talked about Glaigoth. It felt good to talk to someone who actually listens. Suddenly, Corrin burst in, hurling insults and disrupting the peace calling us lovebirds. They actually had to kick him out after he slammed the table though. The nerve of that guy! Then Hector asked what I'd request from the king. Honestly I don't want anything, I'd just like to see the [[Ultima DnD Campaign/Locations/Starfall Castle/Eldritch Library\|Eldritch Library]] at the castle, I've heard it's so amazing. He told me to chase my dreams... fat chance, I mustered up the courage to ask [[To be Sorted/Lord Frosthearth\|To be Sorted/Lord Frosthearth]] if I could attend the tournament. Got shot down faster than a snowball in summer. It was weird though, when I asked Hector what he would request from the King, he just said, "something that could make a real difference". How can he be so mysterious and so sincere at the same time? Ugh. 
 
 ---
 
