@@ -15,4 +15,12 @@
 - **Intelligence**: 13
 - **Wisdom**: 14
 - **Charisma**: 10
+
+- **Strength**: -1
+- **Dexterity**: 0
+- **Constitution**: 0
+- **Intelligence**: +1
+- **Wisdom**: +2
+- **Charisma**: 0
+
 - **Skill**: _Divine Intuition_ - Once per day, Morgan can enter a brief state of meditation to seek guidance. For the next 10 minutes after this meditation, they can add a +2 bonus to any Intelligence (Religion) check they make. This ability represents Morgan's connection to the spiritual realm and their ability to draw upon it for knowledge and insight.
